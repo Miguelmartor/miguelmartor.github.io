@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="servicios.xsl" type="text/xsl"?>
+<servicios>
+  
+  <servicio>
+    <icono>imagenes/imagenxml09.jpg</icono>
+    <tipo>Invitaciones</tipo>
+    <desc>Para poder invitar a tus familiares y amigos necesitaras de una invitacion. Podras diseñar y escoger las mejores palabras. </desc>
+  </servicio>
+  
+  <servicio>
+    <icono>imagenes/imagenxml01.jpg</icono>
+    <tipo>Sobre</tipo>
+    <desc>Necesitaras un sobre para introducir tus invitaciones poniendo tu toque, al exterior como al forro interior.</desc>
+  </servicio>
+  
+  <servicio>
+    <icono>imagenes/imagenxml03.jpg</icono>
+    <tipo>Mapa</tipo>
+    <desc>Crea el mapa de tu boda a medida y 100% personalizado. Acuarelas, dibujos, diseños sencillos y claros para ayudar a tus invitados.</desc>
+  </servicio>
+  
+  <servicio>
+    <icono>imagenes/imagenxml05.jpg</icono>
+    <tipo>Tarjeta</tipo>
+    <desc>Con esta tarjeta podras decir donde podran ingresar el dinero para que  te ayuden en tu luna de miel.</desc>
+  </servicio>
+  
+  <servicio>
+    <icono>imagenes/imagenxml04.jpg</icono>
+    <tipo>Misale</tipo>
+    <desc>Guía de la ceremonia, lecturas, músicas y toda la información para que tus seres queridos sean partícipes de todo lo que sucede. En el Formato que más te guste, a juego con el resto de materiales de tu boda.</desc>
+  </servicio>
+  
+  <servicio>
+    <icono>imagenes/imagenxml02.jpg</icono>
+    <tipo>Protocolos y Meseros</tipo>
+    <desc>Protocolos en lienzo, grandes soportes, cartelitos individuales...en el formato que más os guste y con el diseño que nos propongáis.</desc>
+  </servicio>
+  
+  <servicio>
+    <icono>imagenes/imagenxml07.jpg</icono>
+    <tipo>Caligrafía</tipo>
+    <desc>Que mejor manera y escribir a mano parte de tus invitaciones con una excelente caligrafía.</desc>
+  </servicio> 
+  
+  <servicio>
+    <icono>imagenes/imagenxml08.jpg</icono>
+    <tipo>Sello</tipo>
+    <desc>Que mejor que poner un broche a tus invitaciones con un sello con los motivos de la unión.</desc>
+  </servicio>
+  
+    <servicio>
+    <icono>imagenes/imagenxml06.jpg</icono>
+    <tipo>Pai Pais</tipo>
+    <desc>Una manera diferente y sobre todo útil para destacar cada momento especial de vuestro enlace.</desc>
+  </servicio>
+  
+</servicios>

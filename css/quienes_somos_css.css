@@ -1,0 +1,66 @@
+
+		a{ 	
+			font-size: 20px;
+			}
+		h1{
+			font-family: "Cookie" ;
+			color: #71da71;
+			font-style: normal;
+			margin: 20px;
+			margin-right: 15%;
+			margin-left: 15%;
+			font-size: 310%;
+			}
+		h3{
+				font-family: "Cookie";
+				color: #71da71;
+				margin-left: 10px
+				
+			}
+
+		#flecha{
+			width: 50px;
+			height: 50px;
+			margin-right: 20px;
+			margin-left: 20px;
+
+			}
+		#flechaizq{
+			width: 50px;
+			height: 50px;
+			margin-right: 20px;
+			margin-left: 40%;
+			}
+
+		img{
+			width: 120px;
+			height: 140px;
+			margin: 10px;
+			}
+		
+		#caja{
+			border: 0px solid black;
+			padding-left: 15px;
+			padding-right: 15px;
+			margin: 50px;
+			margin-right: 15%;
+			margin-left: 15%;
+			text-align: justify;
+			font-style: normal;
+			font-family:'BenchNine';
+			font-size: 130%;
+			}
+		#caja2{
+			border: 0px solid black;
+			padding-left: 15px;
+			padding-right: 15px;
+			margin: 50px;
+			margin-right: 15%;
+			margin-left: 15%;
+			text-align: center;
+			font-style: normal;
+			font-family: 'BenchNine';
+			font-size: 130%;
+			}
+		#bill{
+		 padding-top: 2px}

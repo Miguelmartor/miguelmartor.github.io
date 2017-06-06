@@ -1,0 +1,44 @@
+section {
+	width: 900px;
+	height: 500px;
+	margin: auto; 
+	padding: 0px;
+	}
+table {
+	font-family:"BenchNine";
+	font-size: 110%;
+}
+thead{
+	
+}
+
+#titulo {
+	font-weight: bolder;
+	font-family: "Cookie";
+	color: #71da71;
+	font-style: normal;
+	font-size: 250%;
+	margin-top: 140px;
+	margin-bottom: 20px;
+}
+#celda{
+	width: 580px;
+}
+#cajon{
+	width: 470px;
+	height:20px;
+	float: left;
+}
+#botones {
+	margin: 30px auto auto auto;
+
+}
+#textoformulario{
+	position: absolute;
+	width: 800px;
+	height:20px;
+	font-size: 120%;
+	font-family: "BenchNine";
+	text-align: center;
+	margin: 5px auto auto auto;
+}

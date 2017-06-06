@@ -1,0 +1,93 @@
+body{
+	
+}
+#contenido{
+	width: 900px
+}
+
+header {
+	
+	width: 500px;
+	height: 40px;
+	margin: 30px auto 0 auto;
+}
+nav {
+	float: left;
+	background: #047E02;
+	width: 100px;
+	height: 500px;
+	margin: 5px 0px 0px 20px;
+	font-family: "Franklin Gothic Medium";
+}
+
+section {
+	float: center;
+	background: #F6B07C;
+	width: 640px;
+	height: 500px;
+	margin: auto;
+}
+
+h1 {
+	font-weight: bolder;
+	font-family: verdana;
+	color: #ffffff;
+	font-style: normal;
+	float: center;
+	margin: 0% 00% 0 0
+	padding: 10% 20% 0 0;	
+}
+
+
+nav ul {
+  margin: 0 10px;
+  padding: 0;
+  list-style:none;
+}
+
+nav ul li {
+	margin: 30px auto auto auto;
+	padding: 0;
+}
+
+nav ul li a {
+	display: block;
+	position: relative;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	cursor: pointer;
+	text-align: justify;
+	font-size: 150%;
+}
+
+nav ul li a:hover {
+	float: left;
+	background: red;
+	padding: 20px;
+}
+
+nav ul li.seleccionado a {
+	
+	color: red;
+}
+
+#textopie {
+	text-align: center;
+	font-family: Verdana;
+	font-weight: bold;
+}
+#tv {
+	margin: 60px;
+}
+
+#uno{
+	float: left;
+}
+#dos{
+	float: left;
+	margin-left: : 20%;
+}
+#tres{
+	float: right;
+}

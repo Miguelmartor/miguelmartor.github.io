@@ -1,0 +1,53 @@
+#contenedor{
+	background: ;
+	width: 1200px;
+	height: 600px;
+	margin: auto;
+}
+section {
+	background: ;
+	width: 1200px;
+	height: 540px;
+	margin: 00px 0px 0px 0px;
+}
+footer {
+	position: relative;
+	float: center;
+	background:;
+	padding-top: 0px;
+	height:300px;
+	margin: 000px 0px 00px 0px;
+}
+iframe{
+	position: absolute;
+	float: center;
+	margin-top: 30px;
+}
+
+h2{
+	font-family: "Franklin Gothic";
+	font-style: normal;
+}
+			
+#mapa{
+	position: absolute;
+	float: right;
+	margin-left: 500px;
+	
+}
+		
+#direccion{
+	position: absolute;
+	opacity: .70; 
+	background: #BDC3C7;
+	width: 280px;
+	height: 390px;
+	border-radius:10px;
+	padding-top:0px;
+	padding-left:25px;
+	margin: 00px;
+	margin-top:65px;
+	margin-left: 100px;
+	font-family: "BenchNine";
+}
+		
